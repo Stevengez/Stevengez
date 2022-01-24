@@ -1,4 +1,8 @@
-### Hi there 👋
+### Studying Science and System Engineering
+- ⚡ Currently working on a promising new crypto currency NOSO
+- 👯 Looking to colaborate on web/android/iOS development
+- 📫 How to reach me: steven.jocol@studentambassadors.com / steven.jsg@gmail.com
+
 
 <!--
 **Stevengez/Stevengez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
