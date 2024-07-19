@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Guatemala</h3>
 
 ### Studying Science and System Engineering
-- ⚡ Currently working on a promising new crypto currency NOSO
+- ⚡ Currently working on a promising new crypto currency EIYARO
 - 👯 Looking to colaborate on web/android/iOS development
-- 🌱 I’m currently learning **React Native from Udemy**
+- 🌱 I’m currently learning **React Native, Boomi and Solance**
 
 
 
