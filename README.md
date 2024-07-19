@@ -13,7 +13,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stevengez](https://github.com/Stevengez)
-- 📫 How to reach me: steven.jsg@gmail.com
+- 📫 How to reach me: steven.jsg@gmail.com / steven@tasklab.dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
