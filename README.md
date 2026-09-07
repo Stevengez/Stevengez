@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Guatemala</h3>
 
 ### Studying Science and System Engineering
-- ⚡ Currently working on a promising new crypto currency WORLD
-- 👯 Looking to colaborate on web/android/iOS development
-- 🌱 I’m currently learning **React Native, Boomi and Solance**
+- ⚡ Currently working on a multipurpose management platform (tasklab.dev)
+- 👯 Looking to colaborate on web/android development
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 
 
@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Stevengez&label=Profile%20views&color=0e75b6&style=flat" alt="mihirc0111" /> 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stevengez](https://github.com/Stevengez)
+- 👨‍💻 All of my projects are available at [StevenJocol.dev](https://stevenjocol.dev)
 - 📫 How to reach me: steven.jsg@gmail.com / steven@tasklab.dev
 
 <h3 align="left">Connect with me:</h3>
